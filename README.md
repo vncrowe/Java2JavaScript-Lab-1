@@ -132,3 +132,4 @@ Extend your answer to the last question produce a method that will print out a n
 7: | &nbsp;4 | &nbsp;&nbsp;8 | 12 | 16 | 20 | 24 |  
 8: | &nbsp;5 | 10 | 15 | 20 | 25 | 30 |  
 9: | &nbsp;6 | 12 | 18 | 24 | 30 | 36 |  
+# JavaScript-Lab-1
